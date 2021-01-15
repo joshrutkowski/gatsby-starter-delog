@@ -18,7 +18,7 @@ const noSpace = x => x.replace(/\s+/g, '')
 
 ## Explanation
 
-This function removes spaces from `x` and replaces them with an empty string. Using regex expressions, `\s+` means "one or more spaces", and the `/g `flag means "replace all occurrences". 
+This function removes spaces from `x` and replaces them with an empty string. Using regex expressions, `\s+` means "one or more spaces", and the `/g ` flag means "replace all occurrences". 
 
 For example, if we test our code:
 

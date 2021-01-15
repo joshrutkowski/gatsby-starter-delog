@@ -70,7 +70,7 @@ body {
   color: var(--text-color);
 }
 a {
-  color: var(--primary-color);
+  color: var(--secondary-color);
   text-decoration: none;
   &:hover {
     text-decoration: underline;
@@ -107,7 +107,7 @@ a {
       font-weight: 700;
     }
     &:hover {
-      color: var(--primary-color);
+      color: var(--secondary-color);
     }
     &:last-child {
       margin-right: 0;
@@ -204,7 +204,7 @@ a {
   text-align: center;
   min-height: 380px;
   //background-image: url('/assets/circles-light.png');
-  background-color: var(--featured-bg);
+  background-color: var(--secondary-color);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -250,7 +250,7 @@ a {
   overflow: hidden;
   line-height: 1.5;
   &:hover .post-link {
-    color: var(--primary-color);
+    color: var(--secondary-color);
   }
   > a img {
     display: block;
