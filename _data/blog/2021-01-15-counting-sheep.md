@@ -2,7 +2,7 @@
 template: BlogPost
 path: /counting-sheep-challenge
 date: 2021-01-02T18:57:18.459Z
-title: Counting Sheep
+title: Coding Challenge: Counting Sheep
 ---
 Another day - another challenge!
 
