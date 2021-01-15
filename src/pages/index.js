@@ -23,9 +23,9 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>
-      <h3>Blog Posts &darr;</h3>
+      <h3>Latest Blog Posts &darr;</h3>
       <div className="grids">
-        {Posts}
+        {Posts.slice(0, 3)}
       </div>
     </Layout>
   )
