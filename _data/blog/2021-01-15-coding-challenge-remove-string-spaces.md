@@ -3,6 +3,7 @@ template: BlogPost
 path: /removing-string-spaces
 date: 2021-01-01T18:08:01.416Z
 title: "Coding Challenge: Remove String Spaces"
+thumbnail: https://images.unsplash.com/photo-1505676745438-db5586a18848?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
 ---
 Starting off the new year solving code challenges on [Codewars](https://codewars.com). Follow along!
 
