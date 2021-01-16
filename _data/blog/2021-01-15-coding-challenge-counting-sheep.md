@@ -3,6 +3,7 @@ template: BlogPost
 path: /counting-sheep-challenge
 date: 2021-01-02T19:05:21.526Z
 title: "Coding Challenge: Counting Sheep"
+thumbnail: https://images.unsplash.com/photo-1554755209-85e44182e019?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80
 ---
 Another day - another challenge!
 
