@@ -39,14 +39,14 @@
       "prettier": "^1.19.1",
       "react-social-icons": "^4.1.0"
     },
-    "homepage": "https://github.com/W3Layouts/gatsby-starter-delog#readme",
+    "homepage": "https://github.com/joshrutkowski/joshrutkowski.com/#readme",
     "keywords": [
       "gatsby",
       "netlify cms"
     ],
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/W3Layouts/gatsby-starter-delog.git"
+      "url": "git+https://github.com/joshrutkowski/joshrutkowski.com.git"
     },
     "scripts": {
       "build": "GATSBY_EXPERIMENTAL_PAGE_BUILD_ON_DATA_CHANGES=true gatsby build --log-pages",
