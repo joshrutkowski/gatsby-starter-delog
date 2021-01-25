@@ -56,6 +56,10 @@ const AboutPage = (props) => {
             Outside of work, I love playing the piano, attempting to learn the
             guitar, and being outdoors.
           </p>
+
+          <p>
+          <a href="Resume-Josh-Rutkowski.pdf">Resume</a>
+          </p>
         </About>
       </Layout>
     </main>
