@@ -58,7 +58,7 @@ const AboutPage = (props) => {
           </p>
 
           <p>
-          <a href="Resume-Josh-Rutkowski.pdf">Resume</a>
+          <a href="Resume.pdf">Resume</a>
           </p>
         </About>
       </Layout>
